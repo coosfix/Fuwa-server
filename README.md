@@ -1,2 +1,4 @@
 # Fuwa-server
-Fuwa server project
+<p align="center">
+  <img width="500px" src="assets/crycat.jpg">
+</p>
