@@ -1,2 +1,2 @@
 # Fuwa-server
-![crycats](./assets/crycats.png)
+![crycats](./assets/crycat.png)
