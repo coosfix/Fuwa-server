@@ -3,7 +3,9 @@
 ### Run
 ```
 $ cd ./Fuwa-server
-$ gin
+$ go build
+$ go install github.com/cosmtrek/air@latest
+$ air
 ```
 
 ### Testing
